@@ -1,6 +1,6 @@
 # Hey, I'm Elkhai 👋:
 💻 A Software Developer that enjoys everything about Programming (Bug fixing included)<br>
-👨‍💻 I’m a Computer Science student currently attending Fanshawe College<br>
+👨‍💻 Computer Science student currently attending Fanshawe College<br>
 ✏ I enjoy learning the many different programming languages and how they are distinct from one another
 
 
@@ -20,4 +20,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

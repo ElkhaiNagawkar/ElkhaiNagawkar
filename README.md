@@ -22,7 +22,7 @@
 
 ## Portfolio:
 <picture>
-<img src="https://github.com/ElkhaiNagawkar/ElkhaiNagawkar/blob/main/image_2024-05-02_202943448.png" height="450">
+<img src="https://github.com/ElkhaiNagawkar/ElkhaiNagawkar/blob/main/ElkhaiNagawkar-Protfolio.png" height="450">
 </picture>
 
 [Portfolio Link](https://elkhai-nagawkar-portfolio.vercel.app)

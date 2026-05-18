@@ -1,7 +1,8 @@
 # Hey, I'm Elkhai 👋:
-💻 A Software Developer that enjoys everything about Programming (Bug fixing included)<br>
-👨‍💻 Computer Science student currently attending Fanshawe College<br>
-✏ I enjoy learning the many different programming languages and how they are distinct from one another
+🏢 Penetration Tester at Digital Boundary Group.
+💻 A Software Developer & Penetration Tester — I enjoy everything from building programs to breaking them<br>
+👨‍💻 CS graduate with a passion for both secure development and offensive security<br>
+✏ Always learning — whether it's a new language or a new exploit
 
 
 ## 🌐 Socials:
@@ -10,6 +11,7 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -20,6 +22,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Compatible-orange?style=for-the-badge&logo=portswigger&logoColor=white)
 
 ## Portfolio:
 <picture>

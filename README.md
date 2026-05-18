@@ -1,8 +1,8 @@
 # Hey, I'm Elkhai 👋:
-🏢 Penetration Tester at Digital Boundary Group.
-💻 A Software Developer & Penetration Tester — I enjoy everything from building programs to breaking them<br>
-👨‍💻 CS graduate with a passion for both secure development and offensive security<br>
-✏ Always learning — whether it's a new language or a new exploit
+🏢 Penetration Tester at Digital Boundary Group.<br>
+💻 A Software Developer & Penetration Tester — I enjoy everything from building programs to breaking them.<br>
+👨‍💻 CS graduate with a passion for both secure development and offensive security.<br>
+✏ Always learning — whether it's a new language or a new exploit.
 
 
 ## 🌐 Socials:
